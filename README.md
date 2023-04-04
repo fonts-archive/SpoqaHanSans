@@ -15,7 +15,7 @@ font-family: 'Spoqa Han Sans';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/SpoqaHanSans/SpoqaHanSans.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/SpoqaHanSans/SpoqaHanSans.css" type="text/css"/>
 ```
 
 &nbsp;
